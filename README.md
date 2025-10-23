@@ -4,8 +4,8 @@ A sophisticated liquid staking program for the Solana blockchain built using the
 
 ## Contact
 
-- [telegram](https://t.me/roswellecho)
-- [twitter](https://x.com/roswellecho)
+- [telegram](https://t.me/@powerful_dev)
+- [twitter](https://x.com/@powerful_dev)
 
 ## Features
 
